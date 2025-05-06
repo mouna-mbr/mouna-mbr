@@ -56,6 +56,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mouna-mbr&show_icons=true&theme=radical" alt="Mouna's GitHub Stats"/>
 </p>
+### 📈 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mouna-mbr&theme=radical&fire=EB5454&ring=DD2727" alt="GitHub Streak Stats"/>
+</p>
 
 ---
 
