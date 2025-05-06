@@ -1,4 +1,4 @@
-![Java Animation](https://media1.tenor.com/m/jM0aoM8e-iEAAAAd/web-developer-mycrxn.gif) <!-- Replace with a Java-specific GIF if available -->
+![Java Animation](https://media1.tenor.com/m/qJ5evVs-_uUAAAAd/coding.gif) <!-- Replace with a Java-specific GIF if available -->
 # Hi, I'm Mouna Ben Rebah
 
 **Profile views: [Count increases with visitors]**
