@@ -1,74 +1,33 @@
-👋 Hi, I’m Mouna Ben Rebah!
-  
-I’m a 2nd-year Computer Engineering student (specializing in TWIN - Web and Internet Technologies) at ESPRIT, passionate about full-stack development, web technologies, and innovation. With a Bachelor’s in IoT, I thrive on tackling tech challenges and contributing to impactful projects like SustainaFood, which fights food waste. 🚀  
-🔧 My Skills
+![Tech Background](https://media.giphy.com/media/l0HlRnAWpinflIreA/giphy.gif)
 
-Languages: Java, JavaScript, TypeScript, Python, HTML/CSS  
-Frameworks & Libraries: React.js, Angular, Node.js, Spring Boot, Symfony4, .NET  
-Databases: MongoDB, PostgreSQL, MySQL, H2  
-DevOps & CI/CD: Jenkins, Docker, Kubernetes, GitHub Actions, SonarQube, Nexus, Prometheus, Grafana  
-Machine Learning & AI: Random Forest, Computer Vision, TensorFlow, PyTorch  
-Others: RESTful APIs, RabbitMQ, AWS, JavaFX, Codename One, Embedded IoT
+# Hi, I'm Mouna Ben Rebah
 
-🌟 Featured Projects
+**Profile views: [Count increases with visitors]**
 
-SustainaFood (2025): A web platform connecting food donors with charities to reduce waste.  
+[FOLLOW @MOUNA-MBR](#)
 
-Built a robust backend with Node.js and MongoDB.  
-Created a responsive UI with React.js.  
-Integrated Random Forest for donation recommendations and AI for analyzing food images.  
-⭐ Skills: Machine Learning, Computer Vision, RESTful APIs.
+- 👋 Ask me about anything related to full-stack development or web technologies!
+- 📫 How to reach me: [mouna1ben1rebah@gmail.com](mailto:mouna1ben1rebah@gmail.com)
+- 🌐 Check out [Portfolio](https://mouna-mbr.github.io/portfolio)
 
+## Connect with me:
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="24"/>](https://www.linkedin.com/in/mouna-ben-rabeh-587392254/)
+[<img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram" width="24"/>](https://www.instagram.com/mounabenrabeh/?hl=fr)
 
-DevOps Project (2025): CI/CD pipeline for a web app.  
+## Languages and Tools:
+<img src="https://img.icons8.com/color/48/000000/java.png" alt="Java" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/spring-boot.png" alt="Spring Boot" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/node-js.png" alt="Node.js" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="24"/>
+<img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="24"/>
 
-Set up Jenkins, Docker Compose, and Kubernetes.  
-Used SonarQube for code analysis and Prometheus/Grafana for monitoring.  
-⭐ Skills: CI/CD, Containerization, Monitoring.
+## Mouna Ben Rebah's GitHub Stats
+[![Mouna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouna-mbr&show_icons=true&theme=radical)](https://github.com/mouna-mbr)
 
-
-Microservice Project (2025): Scalable app using a microservices architecture.  
-
-Independent services with Spring Boot, communication via RabbitMQ.  
-Databases: H2 (testing) and PostgreSQL (production).  
-⭐ Skills: Microservices, AWS, Docker.
-
-
-
-💼 Professional Experience
-
-Summer Intern - .NET/Angular Developer @ Tunisian Bank Society (2024)  
-
-Designed a system for mass bank card allocation.  
-Developed backends with Spring Boot and .NET, and UIs with Angular.
-
-
-Final Year Project Intern - Spring Boot/Angular Developer @ BEE Coders (2023)  
-
-Built a multi-profile platform connecting businesses, students, and clubs.  
-Created a robust backend and responsive frontend with Spring Boot/Angular.
-
-
-
-🎓 Education
-
-Computer Engineering (TWIN), ESPRIT (2023 – Present)  
-Bachelor’s in Embedded Systems and IoT, Faculty of Sciences of Tunis (2020 – 2023)  
-Mathematics Baccalaureate, Lycée Rue Attarine Ariana (2020)
-
-📫 Get in Touch
-
-📧 Email: mouna1ben1rebah@gmail.com  
-🔗 LinkedIn: linkedin.com/in/mounabenrebah  
-🐦 Twitter: @mounabenrebah  
-🌐 Portfolio: mounabenrebah.com
-
-🏆 Involvement
-
-Advisor @ JCI Soukra (2022)  
-Member @ Tunisian Red Crescent (2021)  
-Member @ IEEE RAS/CS Chapter FST (2022)
-
-🎉 Fun Fact
-I built my first mobile app at 20 to manage books, and I’ve been coding solutions to simplify life ever since! 📚💻  
-
+- **Total Commits (2025):** [Your stats]
+- **Total PRs:** [Your stats]
+- **Total Issues:** [Your stats]
+- **Contributed to (last year):** [Your stats]
