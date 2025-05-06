@@ -12,10 +12,14 @@
 </p>
 
 ---
-
+### 🚀 About Me
+- 👩‍💻 I'm passionate about full-stack development and modern web technologies.
+- 💬 Ask me anything related to Java, Spring Boot, React, Node.js, or DevOps tools!
+- 📫 Reach me directly via [email](mailto:mouna1ben1rebah@gmail.com) or check out my [Portfolio](https://mouna-mbr.github.io/portfolio).
+---
 ### 📲 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mouna-ben-rabeh-587392254/" target="_blank">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
