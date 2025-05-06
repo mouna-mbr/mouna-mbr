@@ -1,5 +1,4 @@
-![Tech Background](https://media.giphy.com/media/l0HlRnAWpinflIreA/giphy.gif)
-
+![Java Animation](https://media.giphy.com/media/l0HlRnAWpinflIreA/giphy.gif) <!-- Replace with a Java-specific GIF if available -->
 # Hi, I'm Mouna Ben Rebah
 
 **Profile views: [Count increases with visitors]**
