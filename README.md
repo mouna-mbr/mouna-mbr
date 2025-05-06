@@ -7,30 +7,25 @@
 <h1 align="center">Hi, I'm Mouna Ben Rebah 👋</h1>
 
 <p align="center">
-  <a href="mailto:mouna1ben1rebah@gmail.com">📧 mouna1ben1rebah@gmail.com</a> |
-  <a href="https://mouna-mbr.github.io/portfolio">🌐 Portfolio</a>
+  <a href="mailto:mouna1ben1rebah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://mouna-mbr.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
-
----
-
-### 🚀 About Me
-- 👩‍💻 I'm passionate about full-stack development and modern web technologies.
-- 💬 Ask me anything related to Java, Spring Boot, React, Node.js, or DevOps tools!
-- 📫 Reach me directly via [email](mailto:mouna1ben1rebah@gmail.com) or check out my [Portfolio](https://mouna-mbr.github.io/portfolio).
 
 ---
 
 ### 📲 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mouna-ben-rabeh-587392254/">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="30" alt="LinkedIn"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mouna-ben-rabeh-587392254/" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="45" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/mounabenrabeh/?hl=fr">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="30" alt="Instagram"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/mounabenrabeh/?hl=fr" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="45" alt="Instagram"/>
   </a>
-  <a href="https://www.facebook.com/rim.ATE">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" width="30" alt="Facebook"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/rim.ATE" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/facebook-new.png" width="45" alt="Facebook"/>
   </a>
 </p>
 
