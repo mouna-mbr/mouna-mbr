@@ -1,4 +1,4 @@
-![Java Animation](https://media.giphy.com/media/l0HlRnAWpinflIreA/giphy.gif) <!-- Replace with a Java-specific GIF if available -->
+![Java Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2lmNm5ma2NqMzR2OWN3NXlqNjNhOXdka216a2twcTB4OGZtMjh4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif) <!-- Replace with a Java-specific GIF if available -->
 # Hi, I'm Mouna Ben Rebah
 
 **Profile views: [Count increases with visitors]**
