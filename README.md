@@ -66,7 +66,7 @@
 
 | Projet | Description | Tech | Lien |
 |-------|-----------|------|------|
-| **SustainaFood** | Plateforme anti-gaspillage avec IA (vision + ML) | React, Node.js, MongoDB, Random Forest | [GitHub](https://github.com/mouna-mbr/sustainafood) |
+| **SustainaFood** | Plateforme anti-gaspillage avec IA (vision + ML) | React, Node.js, MongoDB, Random Forest | [GitHub](https://github.com/FouzriChayma/SustainaFood) |
 | **MindLens** | Journaling AI multimodal (texte/audio/image) | Django, HuggingFace, PostgreSQL | [GitHub](https://github.com/SheCodes-esprit/MindLens) |
 | **Waste-2-Product** | Économie circulaire des déchets | Laravel, MySQL, PHP | [GitHub](https://github.com/SheCodes-Projects-Esprit/Waste-2-Product) |
 | **SemantikVoyage** | API voyage sémantique avec ontologie | Django, RDF/OWL, SPARQL, Fesuki | [GitHub](https://github.com/SheCodes-Projects-Esprit/SemantikVoyage-ontology-django) |
