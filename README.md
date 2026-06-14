@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I'm Mouna Ben Rebah</h1>
 
 <p align="center">
-  <strong>Étudiante en 3ème année Cycle Ingénieur TWIN</strong><br>
-  Full-Stack Developer • Data Engineer • AI Enthusiast
+  <strong>Ingénieure en Informatique — Spécialité TWIN</strong><br>
+  Full-Stack Developer • AI Enthusiast
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
 ---
 
 ### About Me
-- **Étudiante en 3ème année cycle ingénieur TWIN** à l'**Esprit**  
-- **Passionnée** par le développement full-stack, l'IA, le DevOps et les données massives  
-- **Stage Data Engineering** chez **Sofrecom (Groupe Orange)** : orchestration avec **Airflow & Starburst/Trino**  
-- **Projets à impact** : réduction du gaspillage alimentaire, bien-être mental, économie circulaire, web sémantique  
-- **Curieuse, proactive, toujours en apprentissage**
+- 🎓 **Ingénieure en Informatique (TWIN)** diplômée de l'**ESPRIT** + Licence IoT (FST)
+- 💻 **Passionnée** par le développement full-stack, l'IA et les architectures web modernes
+- 🚀 **Stage PFE** chez **Sofrecom Tunisie (Groupe Orange)** — Développement full-stack (Angular · Spring Boot · FastAPI)
+- 🔬 **Projets à impact** : santé, bien-être mental, gaspillage alimentaire, économie circulaire
+- 📚 **Curieuse, proactive, toujours en apprentissage**
 
 ---
 
@@ -55,55 +55,60 @@
 ### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,laravel,react,nodejs,angular,dotnet,php,js,ts,mongodb,postgresql,mysql,sqlite,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,react,nodejs,angular,dotnet,js,ts,mongodb,postgresql,mysql,git,github,linux" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,prometheus,grafana,aws,gcp,airflow,sonarqube,rabbitmq,postman,vscode,idea,figma" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,airflow,postman,vscode,idea,figma,tailwind,django,laravel,php" />
 </p>
 
 ---
 
 ### Featured Projects
 
-| Projet | Description | Tech | Lien |
-|-------|-----------|------|------|
-| **SustainaFood** | Plateforme anti-gaspillage avec IA (vision + ML) | React, Node.js, MongoDB, Random Forest | [GitHub](https://github.com/FouzriChayma/SustainaFood) |
-| **MindLens** | Journaling AI multimodal (texte/audio/image) | Django, HuggingFace, PostgreSQL | [GitHub](https://github.com/SheCodes-esprit/MindLens) |
+| Projet | Description | Stack | Lien |
+|--------|-------------|-------|------|
+| **SOF Smart Hire** | Plateforme RH complète avec analyse IA des CV, quiz techniques et anti-triche | Angular 21, Spring Boot, FastAPI, MySQL |  |
+| **Ulysse Media** | Plateforme multimédia : devis, gestion de projet, paiements Stripe, chat temps réel | React, Node.js, Express, MySQL, Socket.IO | [GitHub](https://github.com/mouna-mbr/Ulysse-Media) |
+| **Doctory** | Application de gestion médicale et de consultation santé en ligne | React, Node.js, MySQL | [GitHub](https://github.com/mouna-mbr/Doctory) |
+| **SustainaFood** | Lutte contre le gaspillage alimentaire avec IA (vision + ML) | React, Node.js, MongoDB, Random Forest | [GitHub](https://github.com/FouzriChayma/SustainaFood) |
+| **MindLens** | Journaling AI multimodal (texte/audio/image) pour le bien-être mental | Django, HuggingFace, PostgreSQL | [GitHub](https://github.com/SheCodes-esprit/MindLens) |
 | **Waste-2-Product** | Économie circulaire des déchets | Laravel, MySQL, PHP | [GitHub](https://github.com/SheCodes-Projects-Esprit/Waste-2-Product) |
-| **SemantikVoyage** | API voyage sémantique avec ontologie | Django, RDF/OWL, SPARQL, Fesuki | [GitHub](https://github.com/SheCodes-Projects-Esprit/SemantikVoyage-ontology-django) |
-| **CI/CD Pipeline** | Automatisation complète du déploiement | Jenkins, Docker, K8s, Prometheus | [GitHub](https://github.com/mouna-mbr/devops) |
-| **Microservices** | Architecture scalable & modulaire | Spring Boot, RabbitMQ, AWS | [GitHub](https://github.com/mouna-mbr/microservice) |
+| **SemantikVoyage** | API voyage sémantique avec ontologie RDF/OWL | Django, SPARQL, Fesuki | [GitHub](https://github.com/SheCodes-Projects-Esprit/SemantikVoyage-ontology-django) |
 
 ---
 
 ### Professional Experience
 
-#### **Data Engineering Intern**  
-**Sofrecom Tunisie (Groupe Orange)** • *Jul 2025 – Aug 2025*  
-- Librairie réutilisable pour **Airflow + Starburst/Trino**  
-- Automatisation S3 → GCP : **-85% temps de transfert**  
-- Gouvernance **RGPD** via `dataguardian-lib`  
-- Microservices : **Docker, CI/CD, Collibra API**
+#### **Full-Stack Developer — Stage de Fin d'Études**
+**Sofrecom Tunisie (Groupe Orange)** • *Fév 2026 – Juil 2026*
+- Conception d'une plateforme RH complète (Angular 21, Spring Boot, FastAPI, MySQL)
+- Microservice IA : analyse CV, génération de quiz, détection contenu généré par IA
+- Sécurité multi-rôles JWT, 2FA, surveillance anti-triche en temps réel
 
-#### **Full-Stack Developer Intern**  
-**Société Tunisienne de Banque (STB)** • *Jul 2024 – Aug 2024*  
-- Système d’affectation massive de cartes  
-- Backends : **Spring Boot + .NET**  
-- Frontend : **Angular** + API RESTful
+#### **Data Engineering Intern**
+**Sofrecom Tunisie (Groupe Orange)** • *Jul 2025 – Aug 2025*
+- Librairie réutilisable pour **Airflow + Starburst/Trino**
+- Automatisation S3 → GCP : **-85% temps de transfert**
+- Gouvernance **RGPD** via `dataguardian-lib`
 
-#### **PFE Developer**  
-**BEE Coders** • *Jan 2023 – Jun 2023*  
-- Plateforme multiprofiles (étudiants, entreprises, coworking)  
+#### **Full-Stack Developer Intern**
+**Société Tunisienne de Banque (STB)** • *Jul 2024 – Aug 2024*
+- Système d'affectation massive de cartes bancaires
+- Backends : **Spring Boot + .NET** · Frontend : **Angular**
+
+#### **PFE Developer**
+**BEE Coders** • *Jan 2023 – Jun 2023*
+- Plateforme multiprofiles (étudiants, entreprises, coworking)
 - **Spring Boot + Angular + MySQL**
 
 ---
 
 ### Education
 
-- **Cycle Ingénieur en Informatique (TWIN)**  
-  *Esprit* • 2023 – Present  
-- **Licence en Systèmes Embarqués & IoT**  
-  *Faculté des Sciences de Tunis* • 2020 – 2023  
-- **Baccalauréat Mathématiques**  
+- 🎓 **Cycle Ingénieur en Informatique (TWIN)**
+  *ESPRIT* • 2023 – 2026
+- 🎓 **Licence en Systèmes Embarqués & IoT**
+  *Faculté des Sciences de Tunis* • 2020 – 2023
+- 🏆 **Baccalauréat Mathématiques**
   *Lycée Rue Attarine, Ariana* • 2020
 
 ---
@@ -132,7 +137,7 @@
 ### Languages
 
 | Langue | Niveau |
-|-------|--------|
+|--------|--------|
 | Français | B2 |
 | Anglais | B2 |
 | Arabe | Langue maternelle |
@@ -140,7 +145,7 @@
 ---
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 <p align="center">
